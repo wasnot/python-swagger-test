@@ -1,0 +1,17 @@
+apispec==0.22.0
+backports-abc==0.5
+bottle==0.12.13
+certifi==2017.4.17
+click==6.7
+Flask==0.12.2
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+marshmallow==2.13.5
+PyYAML==3.12
+singledispatch==3.4.0.3
+six==1.10.0
+tornado==4.5.1
+webapp2==2.5.2
+WebOb==1.7.2
+Werkzeug==0.12.2
